@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/FilterGrid/static/css/main.5e902e12.css",
+    "main.js": "/FilterGrid/static/js/main.f9c81e9c.js",
+    "index.html": "/FilterGrid/index.html",
+    "main.5e902e12.css.map": "/FilterGrid/static/css/main.5e902e12.css.map",
+    "main.f9c81e9c.js.map": "/FilterGrid/static/js/main.f9c81e9c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5e902e12.css",
+    "static/js/main.f9c81e9c.js"
+  ]
+}
